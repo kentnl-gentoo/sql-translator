@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 
-# $Id: auto-dia.pl,v 1.3 2003-02-15 23:38:35 kycl4rk Exp $
+# $Id: auto-dia.pl,v 1.3 2003/02/15 23:38:35 kycl4rk Exp $
 
 =head1 NAME 
 

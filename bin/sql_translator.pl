@@ -1,7 +1,7 @@
 #!/usr/bin/perl -w
 
 # -------------------------------------------------------------------
-# $Id: sql_translator.pl,v 1.6 2002-11-26 03:59:57 kycl4rk Exp $
+# $Id: sql_translator.pl,v 1.6 2002/11/26 03:59:57 kycl4rk Exp $
 # -------------------------------------------------------------------
 # Copyright (C) 2002 Ken Y. Clark <kycl4rk@users.sourceforge.net>,
 #                    darren chamberlain <darren@cpan.org>

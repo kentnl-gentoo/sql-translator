@@ -1,7 +1,7 @@
 package SQL::Translator::Producer::Raw;
 
 # -------------------------------------------------------------------
-# $Id: Raw.pm,v 1.2 2003-01-29 13:32:44 dlc Exp $
+# $Id: Raw.pm,v 1.2 2003/01/29 13:32:44 dlc Exp $
 # -------------------------------------------------------------------
 # Copyright (C) 2003 Ken Y. Clark <kclark@cpan.org>,
 #                    darren chamberlain <darren@cpan.org>,

@@ -1,7 +1,7 @@
 package SQL::Translator::Producer::XML;
 
 # -------------------------------------------------------------------
-# $Id: XML.pm,v 1.5 2003-01-27 17:04:48 dlc Exp $
+# $Id: XML.pm,v 1.5 2003/01/27 17:04:48 dlc Exp $
 # -------------------------------------------------------------------
 # Copyright (C) 2003 Ken Y. Clark <kclark@cpan.org>,
 #                    darren chamberlain <darren@cpan.org>,

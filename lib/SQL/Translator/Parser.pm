@@ -1,7 +1,7 @@
 package SQL::Translator::Parser;
 
 # ----------------------------------------------------------------------
-# $Id: Parser.pm,v 1.6 2003-01-27 17:04:44 dlc Exp $
+# $Id: Parser.pm,v 1.6 2003/01/27 17:04:44 dlc Exp $
 # ----------------------------------------------------------------------
 # Copyright (C) 2003 Ken Y. Clark <kclark@cpan.org>,
 #                    darren chamberlain <darren@cpan.org>,
