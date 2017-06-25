@@ -1,3 +1,4 @@
+use lib q[.];
 use inc::Module::Install 1.06;
 use strict;
 use warnings;
