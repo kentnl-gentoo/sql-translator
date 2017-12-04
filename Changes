@@ -1,6 +1,6 @@
 Changes for SQL::Translator
 
-0.11021_01 2015-10-29
+0.11022 2017-12-04
 
  * Add support for monotonically increasing SQLite autoincs (GH#47)
  * Add support for CHECK constraint in SQLite producer (GH#57)
@@ -10,6 +10,8 @@ Changes for SQL::Translator
  * Add support for USING and WHERE on indexes in PostgreSQL producer
    and parser (RT#63814, GH#52)
  * Improve add_trigger consistency between producers (GH#48)
+ * Add trigger 'scope' attribute support to JSON, YAML and XML producers,
+   and XML and SQLite parsers (RT#119997)
  * Declare dependencies in deterministic order (RT#102859)
  * Multiple speedups of naive internal debugging mechanism (GH#54)
  * Remove dependency on List::MoreUtils ( http://is.gd/lmu_cac_debacle )
@@ -18,8 +20,12 @@ Changes for SQL::Translator
  * Fix parsing of MySQL column comments (RT#83380)
  * Fix multi-line comments in YAML, JSON and PostgreSQL producers
  * Fix identifier quoting in PostgreSQL diff producer
+ * Fix incorrect type conversion from various BigInt AutoIncrement to the
+   PostgreSQL-specific bigserial (GH#72)
  * Fix missing semicolons between PostGIS statements
  * Fix string and identifier quoting in PostGIS statements
+ * Fix intermittent test failures (RT#108460)
+ * Fix relying on exact serialisation for JSON/YAML tests (RT#121901)
 
 0.11021 2015-01-29
 
